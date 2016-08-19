@@ -1,0 +1,13 @@
+.idea/
+.mvn/
+spring-jpa-tomcat.iml
+target/
+src/main/webapp/WEB-INF/flyway.properties
+node_modules/
+bower_components/
+.sass-cache/
+spring-jpa-tomcat.ipr
+spring-jpa-tomcat.iws
+logfile
+.gradle
+.DS_Store
